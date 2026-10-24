@@ -11,7 +11,7 @@
 - tkinter（一般随 Python 自带；若缺失运行 `pip install tk`）
 
 ## 运行截图
-![桌面宠物运行效果](images/petpic.png)
+![桌面宠物运行效果](images/petpic version1.png)
 
 ## 运行方法
 1. 确认已安装 Python 3.10 及以上（可在终端输入 `python --version` 查看）。
