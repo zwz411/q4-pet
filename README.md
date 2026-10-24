@@ -12,6 +12,7 @@
 
 ## 运行截图
 ![桌面宠物运行效果](images/petpic version1.png)
+他的运行视频在dev分支的(images\version1 video.mp4)
 
 ## 运行方法
 1. 确认已安装 Python 3.10 及以上（可在终端输入 `python --version` 查看）。
