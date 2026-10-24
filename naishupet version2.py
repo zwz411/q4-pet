@@ -1,7 +1,7 @@
 import tkinter as tk
 import math
 import random
-
+ 
 # 颜色配置
 TRANSPARENT_COLOR = "#010203"
 C_BODY = "#F9E07F"       # 奶鼠黄
