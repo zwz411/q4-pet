@@ -22,7 +22,7 @@ class MilkMousePet:
     def __init__(self, root):
         self.root = root
         self.root.title("奶鼠桌宠")
-        
+         
         self.width = 400
         self.height = 400
         screen_w = self.root.winfo_screenwidth()
